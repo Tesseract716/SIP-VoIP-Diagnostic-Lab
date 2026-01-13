@@ -1,3 +1,12 @@
+## 📑 Table of Contents
+1. [🛡️ System Administration & Networking](#️-system-administration--networking)
+2. [Section 1: Manual Endpoint Provisioning](#section-1-manual-endpoint-provisioning)
+3. [Section 2: Encountering and Resolving System Constraints](#section-2-encountering-and-resolving-system-constraints)
+4. [Section 3: Execution and Signaling Verification](#section-3-execution-and-signaling-verification)
+5. [Section 4: Deep-Dive Packet Analysis](#section-4-deep-dive-packet-analysis)
+
+
+
 # SIP-VoIP-Diagnostic-Lab
 A cross-platform lab analyzing SIP signaling and RTP media flows using Wireshark, MicroSIP, and Linphone.
 
